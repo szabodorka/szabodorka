@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d0rk-a
+- 👋 Hi, I’m @szabodorka
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React
 - 😄 Pronouns: she/her
