@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @szabodorka
 - 🎓 I recently finished a Full-Stack Developer course at Codecool with DevOps specialization
-- 🚀 I’m interested in designing and managing cloud infrastructure, especially on AWS, using Infrastructure as Code tools like Terraform.
+- 🚀 I’m interested in designing and managing cloud infrastructure, especially on AWS, using IaC tools like Terraform.
 - 🌱 Currently improving my skills in Docker, Kubernetes, Terraform, AWS, CI/CD and monitoring tools
 - 💼 Open to opportunities in DevOps and cloud engineering
 - 😄 Pronouns: she/her
